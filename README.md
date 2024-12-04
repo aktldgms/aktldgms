@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdulkadir</h1>
-<h3 align="center">Passionate Backend Developer from Türkiye</h3>
+<h1 align="center">Abdulkadir Kutludoğmuş</h1>
+<h3 align="center">Backend Developer | Node.js | C/C++ | 42 İstanbul Student</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/akutludogmus" target="_blank">
@@ -9,25 +9,51 @@
 
 ---
 
-### 👨‍💻 About Me
-At 15, I first dived into coding with **HTML & CSS**, and it’s been quite the ride ever since! 🎢 I've got solid experience in game development with **Unity** and **C#**. My first game on the Play Store, *Deep Launch*, may not be a masterpiece, but it was a good start for a steady learning journey. 🎮 From here, I planned to challenge myself with more complex projects, like *Hell Project*, but life has its twists, and these days, I’m more focused on backend work. 
+## About Me  
 
-Here’s a quick run-down of my tech journey:
-- **Java**: Got my introduction at school; it was insightful, though Android development didn’t click with me.
-- **Flutter**: Dabbled in it but didn’t find my style.
-- **JavaScript**: Took on several tutorials and gained practical experience when needed.
-- **C++**: Love it ❤️, especially for the technical depth, but haven’t yet built full projects with it.
+I am Abdulkadir Kutludoğmuş, a backend developer from Türkiye, passionate about crafting scalable and efficient backend systems. My programming journey began at the age of 15 when I took my first steps into web development by learning HTML, CSS, and Bootstrap. Within a year, I had built and deployed my own static website under the domain "akutludogmus.com." Although the website no longer exists, it was my first hands-on experience with web technologies and taught me the importance of creating functional and user-friendly designs.
 
-### 🛠 What I’m Working On
-Right now, I’m working on a fitness app using **Node.js** for the web. 💪 I'm also expanding my knowledge of **design patterns** and **SQL**.
+As I continued exploring programming, I delved into JavaScript, which laid the foundation for my logical thinking and problem-solving skills. My interest soon expanded to C#, where I experimented with console-based applications, such as a banking system simulator, to deepen my understanding of algorithms. This experience led me to explore game development with Unity, where I gained valuable insights into game mechanics and user interaction.
 
-### 🌱 Learning Journey
-Completed both the **BTK Academy Node.js course** and **Sadık Turan’s Web Development course** on Udemy, and I’m now diving deeper into backend development to build a strong foundation.
+While I initially pursued game development with a small team and even published a 2D mobile game, **Deep Launch**, on the Play Store, my focus eventually shifted towards backend development. Today, I specialize in Node.js and am dedicated to building robust backend solutions.  
 
-### ⚡ Outside the Code
-I’m into **powerlifting** 🏋️, and as for cars and motorcycles—let’s say they’re a passion. 🚗🏍️
-
-### 💡 Ask Me About
-I’m always happy to chat about **Unity** and **C/C++** projects! 😄
+Currently, I’m working on **FitCal**, a fitness app designed to help users manage workout plans efficiently. Alongside this project, I continue to expand my knowledge through advanced programming and system design courses.  
 
 ---
+
+## Technical Skills  
+- **Languages:** JavaScript, C#, C++
+- **Frameworks & Tools:** Node.js, React Native, Unity, MongoDB, SQL
+- **Other Technologies:** Python, WPF, Laravel, Java, Spring, OpenGL, Flutter, Android Studio, WordPress, Game Maker Studio 2 (I am not familiar with these technologies, but I tried them all for a short time and they were effective in the technologies I preferred in the following process.)
+
+---
+
+## Notable Projects  
+
+- **Deep Launch** *(Published on Play Store)*
+  A 2D mobile game developed using Unity and C#. This project was my first venture into the process of app publishing and advertisement integration. Despite its simplicity, it was a valuable learning experience that taught me about collaboration, project deadlines, and launching a product to a real audience.  
+
+- **FitCal** *(In Development)*  
+  A fitness application aiming to revolutionize how users create and manage their workout plans. The backend is being developed with Node.js for performance and scalability, while React Native is used to design an intuitive user interface. The app name is a combination of “Fit” (short for fitness) and “Cal” (short for calculator), and its slogan is "Stay Fit!"  
+
+---
+
+## Education  
+
+- **42 İstanbul Student** *(Ongoing)*
+  Currently enrolled in 42 İstanbul, a globally recognized programming school that emphasizes peer-to-peer learning and a project-based curriculum. The program fosters critical thinking, teamwork, and advanced technical skills through hands-on challenges and collaborative learning.
+- **BTK Academy Node.js Certification** *(Completed)*
+- **Sadık Turan’s Web Development Course** *(Completed)*
+
+---
+
+## Why 42 İstanbul?
+
+42 İstanbul is not just a school; it’s a transformative educational experience that builds self-reliance, problem-solving skills, and a collaborative mindset. Founded in France, the 42 Network is renowned for its innovative approach to programming education, with no traditional teachers or classes. Instead, students learn by completing increasingly complex projects, collaborating with peers, and constantly pushing their limits.
+
+Graduates of 42 are recognized globally for their technical excellence and adaptability. The program nurtures not only programming skills but also the ability to thrive in dynamic, high-pressure environments. Many alumni have gone on to work for leading companies in the tech industry, making 42 one of the most respected coding institutions worldwide.
+
+---
+
+Feel free to explore my repositories or connect for collaboration opportunities!
+
