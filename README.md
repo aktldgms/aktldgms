@@ -21,7 +21,8 @@ Currently, I’m working on **FitCal**, a fitness app designed to help users man
 
 ## Technical Skills  
 - **Languages:** JavaScript, C#, C++
-- **Frameworks & Tools:** Node.js, React Native, Unity, MongoDB, SQL
+- **Frameworks & Tools:** Node.js, React Native, Unity
+- **Databases:** MongoDB, SQL
 - **Other Technologies:** Python, Java, Spring, Laravel, Wordpress, WPF, Flutter, Android Studio, OpenGL, Game Maker Studio 2 (I briefly explored these technologies, which gave me insights that influenced my future preferences.)
 
 ## Notable Projects  
