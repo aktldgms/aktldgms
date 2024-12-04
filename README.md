@@ -19,14 +19,10 @@ While I initially pursued game development with a small team and even published 
 
 Currently, I’m working on **FitCal**, a fitness app designed to help users manage workout plans efficiently. Alongside this project, I continue to expand my knowledge through advanced programming and system design courses.  
 
----
-
 ## Technical Skills  
 - **Languages:** JavaScript, C#, C++
 - **Frameworks & Tools:** Node.js, React Native, Unity, MongoDB, SQL
 - **Other Technologies:** Python, WPF, Laravel, Java, Spring, OpenGL, Flutter, Android Studio, WordPress, Game Maker Studio 2 (I am not familiar with these technologies, but I tried them all for a short time and they were effective in the technologies I preferred in the following process.)
-
----
 
 ## Notable Projects  
 
@@ -35,8 +31,6 @@ Currently, I’m working on **FitCal**, a fitness app designed to help users man
 
 - **FitCal** *(In Development)*  
   A fitness application aiming to revolutionize how users create and manage their workout plans. The backend is being developed with Node.js for performance and scalability, while React Native is used to design an intuitive user interface. The app name is a combination of “Fit” (short for fitness) and “Cal” (short for calculator), and its slogan is "Stay Fit!"  
-
----
 
 ## Education  
 
