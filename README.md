@@ -1,4 +1,4 @@
-<h1 align="center">Abdulkadir Kutludoğmuş</h1>
+<h1 align="center">Kadir Kutludoğmuş</h1>
 <h3 align="center">Backend Developer | Node.js | C/C++ | 42 İstanbul Student</h3>
 
 <p align="center">
