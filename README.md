@@ -11,7 +11,7 @@
 
 ## About Me  
 
-I am Abdulkadir Kutludoğmuş, a backend developer from Türkiye with a strong passion for crafting scalable and efficient backend systems. My programming journey began at the age of 15 when I took my first steps into web development by learning HTML, CSS, and Bootstrap. Within a year, I had built and deployed my own static website under the domain "akutludogmus.com." Although the website no longer exists, it was my first hands-on experience with web technologies and taught me the importance of creating functional and user-friendly designs.
+I am Kadir Kutludoğmuş, a backend developer from Türkiye with a strong passion for crafting scalable and efficient backend systems. My programming journey began at the age of 15 when I took my first steps into web development by learning HTML, CSS, and Bootstrap. Within a year, I had built and deployed my own static website under the domain "akutludogmus.com." Although the website no longer exists, it was my first hands-on experience with web technologies and taught me the importance of creating functional and user-friendly designs.
 
 As I continued to explore programming, I delved into JavaScript, which laid the foundation for my logical thinking and problem-solving skills. My interest soon expanded to C#, where I experimented with console-based applications, such as a banking system simulator, to deepen my understanding of algorithms. This experience led me to explore game development with Unity, where I gained valuable insights into game mechanics and user interaction.
 
