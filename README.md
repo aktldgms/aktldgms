@@ -9,16 +9,6 @@
 
 ---
 
-## About Me  
-
-I am Kadir Kutludoğmuş, a backend developer from Türkiye with a strong passion for crafting scalable and efficient backend systems. My programming journey began at the age of 15 when I took my first steps into web development by learning HTML, CSS, and Bootstrap. Within a year, I had built and deployed my own static website under the domain "akutludogmus.com." Although the website no longer exists, it was my first hands-on experience with web technologies and taught me the importance of creating functional and user-friendly designs.
-
-As I continued to explore programming, I delved into JavaScript, which laid the foundation for my logical thinking and problem-solving skills. My interest soon expanded to C#, where I experimented with console-based applications, such as a banking system simulator, to deepen my understanding of algorithms. This experience led me to explore game development with Unity, where I gained valuable insights into game mechanics and user interaction.
-
-Initially, I pursued game development with a small team and even published a 2D mobile game, **Deep Launch**, on the Play Store. However, my focus eventually shifted towards backend development, where I specialize in building robust and scalable solutions using Node.js.  
-
-Currently, I’m working on **FitCal**, a fitness app designed to help users manage workout plans efficiently. Alongside this project, I continue to expand my knowledge through advanced programming and system design courses.  
-
 ## Technical Skills  
 - **Languages:** JavaScript, C#, C++  
 - **Frameworks & Tools:** Node.js, React Native, Unity  
